@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ines Garcia, a 'biotechnologist' from Spain.
+- 👋 Hi, I’m Ines Garcia Ortiz, a bioinformatician from Spain.
 - 👀 I’m interested in improving my computational skills.
-- 🌱 I’m currently learning Bioinformatics at Universidad Autonoma de Madrid.
+- 🌱 I’m currently doing my PhD in precision medicine in psychiatric genomics.
 
 <!---
 igarcia17/igarcia17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
